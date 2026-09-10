@@ -1,0 +1,9 @@
+TODO. 了解业务架构和行业(métier, secteur), 理解部门划分
+- Finance
+- Trading, Compliance, Risk
+- Transaction Screening, Filtering
+
+- Capital market: Stocks, bonds
+- Market making: Bid, Ask
+
+- Ecommerce
