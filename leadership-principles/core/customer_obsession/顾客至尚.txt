@@ -1,0 +1,13 @@
+顾客至尚
+领导者从客户入手，再反向推动工作。赢得并维系客户对他们的信任。
+虽然领导者会关注竞争对手，但是他们更关注客户。
+
+问题本质
+客户至上，时刻考虑软件对客户影响(客户体验)，对接不同客户场景
+
+Case1: Txt to Excel Tool 提供额外的工具
+Case2: Perf Optimization Feedback 询问对HF版本反馈
+Case3: Norm UI feature Deletion 删除冗余UI设计，提高用户体验
+
+
+
