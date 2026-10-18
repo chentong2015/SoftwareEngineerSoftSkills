@@ -1,0 +1,5 @@
+STAR Format: 回答格式
+- Situation: Set the context
+- Task: Your specific responsibility
+- Action: What you personality did (Not the Team)
+- Result: Outcome (Use numbers and metrics)
