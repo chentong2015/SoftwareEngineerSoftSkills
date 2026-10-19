@@ -5,5 +5,5 @@
 问题本质
 考虑长远的价值，主动承担责任外的任务，承担责任
 
-Case1: WatchList & Platform project 职责外的事情
-Case2: Quick Fix Hard-coded -> Configured 配置可控，长期适配不同场景
+Case1: WatchList Platform project 职责外的事情(相关组的项目)
+Case2: Quick Fix Hard-coded -> Configured 配置可控不同场景(长期利益)

@@ -7,5 +7,5 @@
 如何解决工作中遇到的冲突，意见不一致如何解决
 考察在技术决策、业务优先级和团队合作中，能不能坚持正确的观点，并用数据和事实推动更好的结果。
 
-Case1: Option Control Import DB数据无法检测，选项无法控制全部场景
-Case2: Feature Delivery 赶进度而跳过自动化测试验证
+Case1: UI Option Control  DB数据无法检测，无法控制全部场景
+Case2: HF Feature Release 赶进度而跳过自动化测试验证

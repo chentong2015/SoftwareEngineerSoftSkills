@@ -5,5 +5,5 @@
 问题本质
 高质量的交付，达成交付过程中遇到的困难，没有交付的场景
 
-Case1: Hibernate migration 变更大，项目多，协调部门，时间短
-Case2: Java Batch Perf 性能测试，一周内完成Hotfix版本
+Case2: Hibernate migration 变更大，项目多，协调部门，时间短 (未完成交付)
+Case1: UK XML List Mapping 短的截止日期，庞大的开发量/测试工作 (完成交付)

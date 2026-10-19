@@ -5,9 +5,5 @@
 问题本质
 客户至上，时刻考虑软件对客户影响(客户体验)，对接不同客户场景
 
-Case1: Txt to Excel Tool 提供额外的工具
-Case2: Perf Optimization Feedback 询问对HF版本反馈
-Case3: Norm UI feature Deletion 删除冗余UI设计，提高用户体验
-
-
-
+Case1: Norm UI Deletion 删除冗余UI设计，提高用户体验
+Case2: Perf Optimization 沟通需求场景，内部重现问题，询问HF版本反馈

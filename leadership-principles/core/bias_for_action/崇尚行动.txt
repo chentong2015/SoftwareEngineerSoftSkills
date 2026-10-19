@@ -1,9 +1,0 @@
-崇尚行动
-速度对业务影响至关重要。我们提倡在深思熟虑前提下进行冒险。
-很多决策和行动都可以改变，因此不需要进行过于广泛的推敲。
-
-问题本质
-需要快速做决策，立即行动，交付的周期短，需要承担已知的风险
-
-Case1: DB cleanup service, psql DB risk 缺少DB的性能测试
-Case2: Platform Data Migration, diff DB risk 紧急交付，没有考虑所有迁移场景
